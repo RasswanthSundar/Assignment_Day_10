@@ -1,0 +1,160 @@
+{
+    "projects": {
+        "19210_3M_CSS": {
+            "employees": [
+                "Anganandheswaran",
+                "Nanda Kumar S",
+                "Ram Kumar",
+                "suhail.ahamed",
+                "Vignesh Shankar"
+            ],
+            "tags": [
+                "1810-T486 SRS / Estimate / Proposal",
+                "1810-T491 Code / Architecture / Design Review",
+                "1810-T498 User Manual", "1810-T500 Bug fixes",
+                "1810-T534 Rename Subtestcases and Testcases",
+                "1810-T552 Test Runner Page for Simulation Peripheral",
+                "1810-T567 Implement configuration commands in test runner page",
+                "1810-T581 Back End : Periodic update commands",
+                "1810-T599 Weekly Report",
+                "1810-T602 Discussion / Meetings",
+                "1810-T603 SRS / Estimate / Proposal",
+                "1810-T604 Stand Up",
+                "1810-T608 Code / Architecture / Design Review",
+                "1810-T610 Demo / Status Update Meeting",
+                "1810-T612 Build", "1810-T614 Integration Testing",
+                "1810-T616 API Documentation",
+                "1810-T617 Bug fixes",
+                "1810-T618 Reorder the test case by drag and drop", 
+                "1810-T622 Analysis and Mock up on Configuration Commands", 
+                "1810-T624 Analysis on configuration commands", 
+                "1810-T648 Import Export", 
+                "1810-T649 Turbo Peripheral Testing"
+            ],
+            "billing_amount_in_inr": 396900,
+            "billing_amount_in_usd": 5385.345997,
+            "total_hours_spent": 167.95,
+            "activity_summary": {
+                "Anganandheswaran": [
+                    "1810-T491 Code / Architecture / Design Review",
+                    "1810-T500 Bug fixes", "1810-T534 Rename Subtestcases and Testcases",
+                    "1810-T552 Test Runner Page for Simulation Peripheral", 
+                    "1810-T608 Code / Architecture / Design Review", 
+                    "1810-T617 Bug fixes"
+                    ], 
+                "Nanda Kumar S": [
+                    "1810-T614 Integration Testing", 
+                    "1810-T649 Turbo Peripheral Testing"
+                    ], 
+                "Ram Kumar": [
+                    "1810-T602 Discussion / Meetings",
+                    "1810-T604 Stand Up", 
+                    "1810-T610 Demo / Status Update Meeting"
+                    ], 
+                "suhail.ahamed": [
+                    "1810-T498 User Manual", 
+                    "1810-T500 Bug fixes"
+                    ], 
+                "Vignesh Shankar": [
+                    "1810-T486 SRS / Estimate / Proposal", 
+                    "1810-T500 Bug fixes", 
+                    "1810-T567 Implement configuration commands in test runner page", 
+                    "1810-T581 Back End : Periodic update commands", 
+                    "1810-T599 Weekly Report", 
+                    "1810-T602 Discussion / Meetings", 
+                    "1810-T603 SRS / Estimate / Proposal", 
+                    "1810-T604 Stand Up",
+                    "1810-T608 Code / Architecture / Design Review", 
+                    "1810-T610 Demo / Status Update Meeting", 
+                    "1810-T612 Build",
+                    "1810-T614 Integration Testing", 
+                    "1810-T616 API Documentation", 
+                    "1810-T617 Bug fixes", 
+                    "1810-T618 Reorder the test case by drag and drop", 
+                    "1810-T622 Analysis and Mock up on Configuration Commands", 
+                    "1810-T624 Analysis on configuration commands", 
+                    "1810-T648 Import Export", 
+                    "1810-T649 Turbo Peripheral Testing"
+                    ]
+            },
+            "employee_summary": {
+                "Anganandheswaran":	12.25,
+                "Nanda Kumar S": 15.25,
+                "Ram Kumar": 4.5,
+                "suhail.ahamed": 2.7,
+                "Vignesh Shankar": 133.25
+            }
+
+        },
+        "20516_Gauge Validation Project": {
+            "employees": [
+                "Anganandheswaran", 
+                "gowtham.radhakrishna", 
+                "rameezkhan", 
+                "Sarath Kumar T G", 
+                "saravanan.sivamani", 
+                "Teena Haldorai", 
+                "Vignesh Shankar"
+            ],
+            "tags": [
+                "2V4-T1 Daily Syncup and Customer Meetings", 
+                "2V4-T10 Code comparison study - FGSim and bqSim", 
+                "2V4-T11 Code Study - General", 
+                "2V4-T2 FGTest learnings", 
+                "2V4-T3 PC setup", 
+                "2V4-T4 Protection", 
+                "2V4-T5 Permanent Fail", 
+                "2V4-T6 KT session with Sarath", 
+                "2V4-T8 Micro controller general study", 
+                "2V4-T9 Simulator Alignment"
+            ],
+            "billing_amount_in_inr": 1161390,
+            "billing_amount_in_usd": 15758.34464, 
+            "total_hours_spent": 385.17, 
+            "activity_summary": {
+                "Anganandheswaran": [
+                    "2V4-T1 Daily Syncup and Customer Meetings", 
+                    "2V4-T2 FGTest learnings", "2V4-T3 PC setup", 
+                    "2V4-T4 Protection", "2V4-T5 Permanent Fail"
+                    ], 
+                "gowtham.radhakrishna": [
+                    "2V4-T1 Daily Syncup and Customer Meetings", 
+                    "2V4-T2 FGTest learnings", "2V4-T5 Permanent Fail"
+                    ], 
+                "rameezkhan": [
+                    "2V4-T1 Daily Syncup and Customer Meetings", 
+                    "2V4-T10 Code comparison study - FGSim and bqSim", 
+                    "2V4-T11 Code Study - General", "2V4-T9 Simulator Alignment"
+                    ], 
+                "Sarath Kumar T G": [
+                    "2V4-T6 KT session with Sarath"
+                    ], 
+                "saravanan.sivamani": [
+                    "2V4-T1 Daily Syncup and Customer Meetings", 
+                    "2V4-T8 Micro controller general study"
+                    ], 
+                "Teena Haldorai": [
+                    "2V4-T2 FGTest learnings", 
+                    "2V4-T4 Protection", 
+                    "2V4-T5 Permanent Fail", 
+                    "2V4-T6 KT session with Sarath"
+                    ], 
+                "Vignesh Shankar": [
+                    "2V4-T1 Daily Syncup and Customer Meetings", 
+                    "2V4-T3 PC setup", "2V4-T4 Protection", 
+                    "2V4-T5 Permanent Fail"
+                    ]
+            },
+            "employee_summary": {
+                "Anganandheswaran":132.50, 
+                "gowtham.radhakrishna":14.75, 
+                "rameezkhan":45.24, 
+                "Sarath Kumar T G":1.38, 
+                "saravanan.sivamani":14, 
+                "Teena Haldorai":33.80, 
+                "Vignesh Shankar":143.50
+            }
+
+        }
+    }
+}

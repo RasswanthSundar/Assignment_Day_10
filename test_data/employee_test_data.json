@@ -1,0 +1,64 @@
+{
+	"employee_name": {
+		"Anganandheswaran": {
+			"tags": [
+				"1810-T491 Code / Architecture / Design Review",
+				"1810-T500 Bug fixes", "1810-T534 Rename Subtestcases and Testcases",
+				"1810-T552 Test Runner Page for Simulation Peripheral",
+				"1810-T608 Code / Architecture / Design Review",
+				"1810-T617 Bug fixes",
+				"2V4-T1 Daily Syncup and Customer Meetings",
+				"2V4-T2 FGTest learnings", "2V4-T3 PC setup",
+				"2V4-T4 Protection",
+				"2V4-T5 Permanent Fail"
+			],
+			"projects": [
+				"19210_3M_CSS",
+				"20516_Gauge Validation Project"
+			],
+			"billing_amount_in_inr": 376580,
+			"billing_amount_in_usd": 5109.63365,
+			"total_hours_spent": 144.75,
+			"activity_summary": {
+				"1810-T491 Code / Architecture / Design Review": 1.95,
+				"1810-T500 Bug fixes": 3,
+				"1810-T534 Rename Subtestcases and Testcases": 1,
+				"1810-T552 Test Runner Page for Simulation Peripheral": 1.8,
+				"1810-T608 Code / Architecture / Design Review": 2.5,
+				"1810-T617 Bug fixes": 2,
+				"2V4-T1 Daily Syncup and Customer Meetings": 21.24,
+				"2V4-T2 FGTest learnings": 7.16,
+				"2V4-T3 PC setup": 3.2,
+				"2V4-T4 Protection": 56.54,
+				"2V4-T5 Permanent Fail": 44.36
+			},
+			"project_summary": {
+				"19210_3M_CSS": 12.25,
+				"20516_Gauge Validation Project": 132.5
+			}
+		},
+		"rameezkhan": {
+			"tags": [
+				"2V4-T1 Daily Syncup and Customer Meetings",
+				"2V4-T10 Code comparison study - FGSim and bqSim",
+				"2V4-T11 Code Study - General",
+				"2V4-T9 Simulator Alignment"
+			],
+			"projects": [
+				"20516_Gauge Validation Project"
+			],
+			"billing_amount_in_inr": 88230,
+			"billing_amount_in_usd": 1197.150611,
+			"total_hours_spent": 45.24,
+			"activity_summary": {
+				"2V4-T1 Daily Syncup and Customer Meetings": 13,
+				"2V4-T10 Code comparison study - FGSim and bqSim": 10.83,
+				"2V4-T11 Code Study - General": 17.41,
+				"2V4-T9 Simulator Alignment": 4
+			},
+			"project_summary": {
+				"20516_Gauge Validation Project": 45.24
+			}
+		}
+	}	
+}
